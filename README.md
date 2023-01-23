@@ -1,4 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# This is the explanation for the first assignment.
 
 DO NOT LEAVE IT LIKE THIS!!!
 
